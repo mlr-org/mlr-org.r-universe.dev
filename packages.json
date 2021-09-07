@@ -1,0 +1,86 @@
+[
+  {
+    "package": "bbotk",
+    "url": "https://github.com/mlr-org/bbotk"
+  },
+  {
+    "package": "mlr3",
+    "url": "https://github.com/mlr-org/mlr3"
+  },
+  {
+    "package": "mlr3benchmark",
+    "url": "https://github.com/mlr-org/mlr3benchmark"
+  },
+  {
+    "package": "mlr3cluster",
+    "url": "https://github.com/mlr-org/mlr3cluster"
+  },
+  {
+    "package": "mlr3data",
+    "url": "https://github.com/mlr-org/mlr3data"
+  },
+  {
+    "package": "mlr3db",
+    "url": "https://github.com/mlr-org/mlr3db"
+  },
+  {
+    "package": "mlr3filters",
+    "url": "https://github.com/mlr-org/mlr3filters"
+  },
+  {
+    "package": "mlr3fselect",
+    "url": "https://github.com/mlr-org/mlr3fselect"
+  },
+  {
+    "package": "mlr3hyperband",
+    "url": "https://github.com/mlr-org/mlr3hyperband"
+  },
+  {
+    "package": "mlr3learners",
+    "url": "https://github.com/mlr-org/mlr3learners"
+  },
+  {
+    "package": "mlr3misc",
+    "url": "https://github.com/mlr-org/mlr3misc"
+  },
+  {
+    "package": "mlr3oml",
+    "url": "https://github.com/mlr-org/mlr3oml"
+  },
+  {
+    "package": "mlr3pipelines",
+    "url": "https://github.com/mlr-org/mlr3pipelines"
+  },
+  {
+    "package": "mlr3proba",
+    "url": "https://github.com/mlr-org/mlr3proba"
+  },
+  {
+    "package": "mlr3spatiotempcv",
+    "url": "https://github.com/mlr-org/mlr3spatiotempcv"
+  },
+  {
+    "package": "mlr3tuning",
+    "url": "https://github.com/mlr-org/mlr3tuning"
+  },
+  {
+    "package": "mlr3verse",
+    "url": "https://github.com/mlr-org/mlr3verse"
+  },
+  {
+    "package": "mlr3viz",
+    "url": "https://github.com/mlr-org/mlr3viz"
+  },
+  {
+    "package": "paradox",
+    "url": "https://github.com/mlr-org/paradox"
+  },
+  {
+    "package": "mlr3spatial",
+    "url": "https://github.com/mlr-org/mlr3spatial"
+  },
+  {
+    "package": "mlr3MBO",
+    "url": "https://github.com/mlr-org/mlr3MBO"
+  }
+]
