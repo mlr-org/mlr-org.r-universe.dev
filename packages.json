@@ -82,5 +82,9 @@
   {
     "package": "mlr3MBO",
     "url": "https://github.com/mlr-org/mlr3MBO"
+  },
+  {
+    "package": "mlr3extralearners",
+    "url": "https://github.com/mlr-org/mlr3extralearners"
   }
 ]
