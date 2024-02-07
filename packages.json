@@ -80,8 +80,24 @@
     "url": "https://github.com/mlr-org/mlr3spatial"
   },
   {
-    "package": "mlr3MBO",
-    "url": "https://github.com/mlr-org/mlr3MBO"
+    "package": "mlr3mbo",
+    "url": "https://github.com/mlr-org/mlr3mbo"
+  },
+  {
+    "package": "mlr3torch",
+    "url": "https://github.com/mlr-org/mlr3torch"
+  },
+  {
+    "package": "rush",
+    "url": "https://github.com/mlr-org/rush"
+  },
+  {
+    "package": "mlr3fda",
+    "url": "https://github.com/mlr-org/mlr3fda"
+  },
+  {
+    "package": "mlr3batchmark",
+    "url": "https://github.com/mlr-org/mlr3batchmark"
   },
   {
     "package": "mlr3extralearners",
