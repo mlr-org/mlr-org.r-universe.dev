@@ -7,6 +7,7 @@
   {
     "package": "mlr3",
     "url": "https://github.com/mlr-org/mlr3"
+    "branch" : "*release"
   },
   {
     "package": "mlr3benchmark",
