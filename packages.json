@@ -1,53 +1,63 @@
 [
   {
     "package": "bbotk",
-    "url": "https://github.com/mlr-org/bbotk"
+    "url": "https://github.com/mlr-org/bbotk",
     "branch" : "*release"
   },
   {
     "package": "mlr3",
-    "url": "https://github.com/mlr-org/mlr3"
+    "url": "https://github.com/mlr-org/mlr3",
     "branch" : "*release"
   },
   {
     "package": "mlr3benchmark",
-    "url": "https://github.com/mlr-org/mlr3benchmark"
+    "url": "https://github.com/mlr-org/mlr3benchmark",
+    "branch" : "*release"
   },
   {
     "package": "mlr3cluster",
-    "url": "https://github.com/mlr-org/mlr3cluster"
+    "url": "https://github.com/mlr-org/mlr3cluster",
+    "branch" : "*release"
   },
   {
     "package": "mlr3data",
-    "url": "https://github.com/mlr-org/mlr3data"
+    "url": "https://github.com/mlr-org/mlr3data",
+    "branch" : "*release"
   },
   {
     "package": "mlr3db",
-    "url": "https://github.com/mlr-org/mlr3db"
+    "url": "https://github.com/mlr-org/mlr3db",
+    "branch" : "*release"
   },
   {
     "package": "mlr3filters",
-    "url": "https://github.com/mlr-org/mlr3filters"
+    "url": "https://github.com/mlr-org/mlr3filters",
+    "branch" : "*release"
   },
   {
     "package": "mlr3fselect",
-    "url": "https://github.com/mlr-org/mlr3fselect"
+    "url": "https://github.com/mlr-org/mlr3fselect",
+    "branch" : "*release"
   },
   {
     "package": "mlr3hyperband",
-    "url": "https://github.com/mlr-org/mlr3hyperband"
+    "url": "https://github.com/mlr-org/mlr3hyperband",
+    "branch" : "*release"
   },
   {
     "package": "mlr3learners",
-    "url": "https://github.com/mlr-org/mlr3learners"
+    "url": "https://github.com/mlr-org/mlr3learners",
+    "branch" : "*release"
   },
   {
     "package": "mlr3misc",
-    "url": "https://github.com/mlr-org/mlr3misc"
+    "url": "https://github.com/mlr-org/mlr3misc",
+    "branch" : "*release"
   },
   {
     "package": "mlr3oml",
-    "url": "https://github.com/mlr-org/mlr3oml"
+    "url": "https://github.com/mlr-org/mlr3oml",
+    "branch" : "*release"
   },
   {
     "package": "mlr3pipelines",
@@ -55,35 +65,43 @@
   },
   {
     "package": "mlr3proba",
-    "url": "https://github.com/mlr-org/mlr3proba"
+    "url": "https://github.com/mlr-org/mlr3proba",
+    "branch" : "*release"
   },
   {
     "package": "mlr3spatiotempcv",
-    "url": "https://github.com/mlr-org/mlr3spatiotempcv"
+    "url": "https://github.com/mlr-org/mlr3spatiotempcv",
+    "branch" : "*release"
   },
   {
     "package": "mlr3tuning",
-    "url": "https://github.com/mlr-org/mlr3tuning"
+    "url": "https://github.com/mlr-org/mlr3tuning",
+    "branch" : "*release"
   },
   {
     "package": "mlr3verse",
-    "url": "https://github.com/mlr-org/mlr3verse"
+    "url": "https://github.com/mlr-org/mlr3verse",
+    "branch" : "*release"
   },
   {
     "package": "mlr3viz",
-    "url": "https://github.com/mlr-org/mlr3viz"
+    "url": "https://github.com/mlr-org/mlr3viz",
+    "branch" : "*release"
   },
   {
     "package": "paradox",
-    "url": "https://github.com/mlr-org/paradox"
+    "url": "https://github.com/mlr-org/paradox",
+    "branch" : "*release"
   },
   {
     "package": "mlr3spatial",
-    "url": "https://github.com/mlr-org/mlr3spatial"
+    "url": "https://github.com/mlr-org/mlr3spatial",
+    "branch" : "*release"
   },
   {
     "package": "mlr3mbo",
-    "url": "https://github.com/mlr-org/mlr3mbo"
+    "url": "https://github.com/mlr-org/mlr3mbo",
+    "branch" : "*release"
   },
   {
     "package": "mlr3torch",
@@ -91,18 +109,22 @@
   },
   {
     "package": "rush",
-    "url": "https://github.com/mlr-org/rush"
+    "url": "https://github.com/mlr-org/rush",
+    "branch" : "*release"
   },
   {
     "package": "mlr3fda",
-    "url": "https://github.com/mlr-org/mlr3fda"
+    "url": "https://github.com/mlr-org/mlr3fda",
+    "branch" : "*release"
   },
   {
     "package": "mlr3batchmark",
-    "url": "https://github.com/mlr-org/mlr3batchmark"
+    "url": "https://github.com/mlr-org/mlr3batchmark",
+    "branch" : "*release"
   },
   {
     "package": "mlr3extralearners",
-    "url": "https://github.com/mlr-org/mlr3extralearners"
+    "url": "https://github.com/mlr-org/mlr3extralearners",
+    "branch" : "*release"
   }
 ]
