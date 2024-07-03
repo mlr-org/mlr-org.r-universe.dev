@@ -61,7 +61,8 @@
   },
   {
     "package": "mlr3pipelines",
-    "url": "https://github.com/mlr-org/mlr3pipelines"
+    "url": "https://github.com/mlr-org/mlr3pipelines",
+    "branch" : "*release"
   },
   {
     "package": "mlr3proba",
