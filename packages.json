@@ -106,7 +106,8 @@
   },
   {
     "package": "mlr3torch",
-    "url": "https://github.com/mlr-org/mlr3torch"
+    "url": "https://github.com/mlr-org/mlr3torch",
+    "branch": "*release"
   },
   {
     "package": "rush",
