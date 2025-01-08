@@ -110,6 +110,11 @@
     "branch": "*release"
   },
   {
+    "package": "mlr3inferr",
+    "url": "https://github.com/mlr-org/mlr3inferr",
+    "branch": "*release"
+  },
+  {
     "package": "rush",
     "url": "https://github.com/mlr-org/rush",
     "branch" : "*release"
