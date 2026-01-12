@@ -133,5 +133,10 @@
     "package": "mlr3extralearners",
     "url": "https://github.com/mlr-org/mlr3extralearners",
     "branch" : "*release"
+  },
+  {
+    "package": "xplainfi",
+    "url": "https://github.com/mlr-org/xplainfi",
+    "branch" : "*release"
   }
 ]
