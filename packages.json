@@ -138,5 +138,10 @@
     "package": "xplainfi",
     "url": "https://github.com/mlr-org/xplainfi",
     "branch" : "*release"
-  }
+  },
+  {
+    "package": "mlr3cmprsk",
+    "url": "https://github.com/mlr-org/mlr3cmprsk",
+    "branch" : "*release"
+  },
 ]
