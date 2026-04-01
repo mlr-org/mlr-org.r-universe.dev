@@ -175,8 +175,8 @@
   "branch" : "main"
   },
   {
-  "package": "survivalmodels_mlr3",
-  "url": "https://github.com/mlr-org/survivalmodels_mlr3",
+  "package": "survivalmodelsmlr3",
+  "url": "https://github.com/mlr-org/survivalmodelsmlr3",
   "branch" : "main"
   }
 ]
