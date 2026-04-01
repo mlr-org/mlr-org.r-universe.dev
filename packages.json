@@ -173,5 +173,10 @@
   "package": "dictionar6",
   "url": "https://github.com/mlr-org/dictionar6",
   "branch" : "main"
+  },
+  {
+  "package": "survivalmodels_mlr3",
+  "url": "https://github.com/mlr-org/survivalmodels_mlr3",
+  "branch" : "main"
   }
 ]
