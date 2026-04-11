@@ -155,11 +155,6 @@
   "branch" : "main"
   },
   {
-  "package": "survdistr",
-  "url": "https://github.com/mlr-org/survdistr",
-  "branch" : "main"
-  },
-  {
   "package": "distr6",
   "url": "https://github.com/mlr-org/distr6",
   "branch" : "main"
