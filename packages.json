@@ -177,5 +177,9 @@
     {
         "package": "mlr3hf",
         "url": "https://github.com/mlr-org/mlr3hf"
+    },
+    {
+        "package": "mlr3automl",
+        "url": "https://github.com/mlr-org/mlr3automl"
     }
 ]
