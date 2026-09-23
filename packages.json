@@ -115,6 +115,11 @@
         "branch": "*release"
     },
     {
+        "package": "libcmaesr",
+        "url": "https://github.com/mlr-org/libcmaesr",
+        "branch": "*release"
+    },
+    {
         "package": "rush",
         "url": "https://github.com/mlr-org/rush",
         "branch": "*release"
